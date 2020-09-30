@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="Switcher">
+
+        <attr name="sw_uncheck_color" format="color"/>
+        <attr name="sw_checked_color" format="color"/>
+        <attr name="sw_uncheck_bg" format="color"/>
+        <attr name="sw_checked_bg" format="color"/>
+        <attr name="sw_use_interpolator" format="boolean"/>
+        <attr name="sw_duration" format="integer"/>
+
+    </declare-styleable>
+
+
+</resources>

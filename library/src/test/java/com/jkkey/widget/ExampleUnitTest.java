@@ -1,4 +1,4 @@
-package com.jkkey.switcher;
+package com.jkkey.widget;
 
 import org.junit.Test;
 

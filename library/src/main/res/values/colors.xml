@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="cl_red">#ff0000</color>
+
+    <color name="cl_green">#00ff00</color>
+
+    <color name="cl_blue">#0000ff</color>
+
+    <color name="cl_gn_1">#48ea8b</color>
+
+    <color name="cl_red_1">#ff4651</color>
+
+    <color name="cl_bl_1">#ff7070AA</color>
+
+    <color name="cl_white">#ffffffff</color>
+
+
+</resources>
